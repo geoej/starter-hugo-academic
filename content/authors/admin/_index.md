@@ -2,8 +2,7 @@
 title: Ebrahim Jahanshiri
 role: Data Scientist
 avatar_filename: ej.jpeg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
