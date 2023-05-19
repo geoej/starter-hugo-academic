@@ -28,7 +28,7 @@ social:
     link: https://www.linkedin.com/geoej
   - icon: cv
     icon_pack: ai
-    link: ./CV_EbrahimJahanshiri_13MAY2023.pdf
+    link: ./static/uploads/CV_EbrahimJahanshiri_13MAY2023.pdf
 organizations:
   - name: CFF UK
     url: https://www.cropsforthefutureuk.org
