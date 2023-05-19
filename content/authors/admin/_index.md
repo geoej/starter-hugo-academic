@@ -55,7 +55,7 @@ highlight_name: true
 first_name: Ebrahim 
 email: "ej@cropbase.co.uk"
 ---
-Hello! I'm EJ!, a passionate Data Scientist who thrives at the intersection of data, technology, and problem-solving. With a decade of experience in this vibrant field, I've developed a knack for transforming raw data into meaningful insights that drive strategic business decisions.
+a passionate Data Scientist who thrives at the intersection of data, technology, and problem-solving. With a decade of experience in this vibrant field, I've developed a knack for transforming raw data into meaningful insights that drive strategic business decisions.
 
 My journey in data science began with a Pentium IV computer in 1995 that allowed me to work with earliest versions of Microsoft Excel and Fortran!. I quickly learned about how to load data, create charts and even develop out-of-the-box linear regression models with some model diagnostics. I carried all these skills with me throghout my studies in the university where I worked on various projects that required complex 3D geospatial data manipulation, analysis and publications. I have mastered R in my PhD, where I developed econometrics models for prediction of house property values. 
 
