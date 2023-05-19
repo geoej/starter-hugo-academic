@@ -1,7 +1,7 @@
 ---
 title: Ebrahim Jahanshiri
 role: Data Scientist
-avatar_filename: ej_lowres.png
+avatar_filename: avatar.png
 bio: ""
 interests:
   - Artificial Intelligence
