@@ -25,7 +25,7 @@ social:
     link: https://github.com/geoej
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/geoej
+    link: https://www.linkedin.com/in/geoej
   - icon: cv
     icon_pack: ai
     link: uploads/CV_EbrahimJahanshiri_13MAY2023.pdf
