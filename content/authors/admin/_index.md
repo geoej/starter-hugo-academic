@@ -29,7 +29,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/geoej
   - icond: researchgate
-    icon_pack: fab
+    icon_pack: ai
     link: https://www.researchgate.net/profile/Ebrahim-Jahanshiri
   - icon: cv
     icon_pack: ai
