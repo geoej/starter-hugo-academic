@@ -19,7 +19,7 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap
+  - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.com/citations?user=h3W2FdUAAAAJ&hl=en
   - icon: github
