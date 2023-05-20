@@ -4,9 +4,9 @@ role: Seasoned Machine Learning Scientist
 avatar_filename: avatar.png
 bio: ""
 interests:
-  - Machine learning scientist
+  - Machine Learning 
   - Data Enineering and automation
-  - Geospatial analyst 
+  - Geospatial Analysis and mapping 
   - Storytelling with Data
   - Personal development
 social:
