@@ -33,7 +33,7 @@ social:
     link: https://www.researchgate.net/profile/Ebrahim-Jahanshiri
   - icon: cv
     icon_pack: ai
-    link: uploads/CV_EbrahimJahanshiri_13MAY2023.pdf
+    link: uploads/CV.pdf
 organizations:
   - name: CFF UK
     url: https://www.cropsforthefutureuk.org
