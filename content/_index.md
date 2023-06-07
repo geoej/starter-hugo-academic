@@ -16,24 +16,24 @@ sections:
       title: Technologies
       items:
         - name: R
-          # description: 90%
+          description: sdfsdsf
           icon: r-project
           icon_pack: fab
         - name: Python
-          # description: 100%
+          description: 100%
           icon: python
           icon_pack: fas
         - name: SQL
-          description: 10%
-          icon: camera-retro
+          description: 50%
+          icon: sql
           icon_pack: sql
   - block: Skills
     content:
       title: Skills
       items:
-        - name: R
+        - name: Machine learning
           description: 90%
-          icon: r-project
+          icon: machine learning
           icon_pack: fab
         - name: Statistics
           description: 100%
