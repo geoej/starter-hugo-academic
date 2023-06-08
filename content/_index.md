@@ -26,7 +26,7 @@ sections:
         - name: SQL
           description: 90%
           icon: database
-          icon_pack: fab
+          icon_pack: fas
         - name: Statistics
           description: 100%
           icon: chart-line
