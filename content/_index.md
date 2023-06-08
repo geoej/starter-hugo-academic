@@ -11,9 +11,9 @@ sections:
       title: Hi, I'm EJ!
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: Technologies
+  - block: Skills
     content:
-      title: Technologies
+      title: Skills
       items:
         - name: R
           description: sdfsdsf
