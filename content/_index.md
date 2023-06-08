@@ -8,7 +8,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Hi, I'm EJJ!
+      title: Hi, I'm EJ!
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: Technologies
@@ -27,10 +27,6 @@ sections:
           description: 50%
           icon: sql
           icon_pack: sql
-  - block: Skills
-    content:
-      title: Skills
-      items:
         - name: Machine learning
           description: 90%
           icon: machine learning
