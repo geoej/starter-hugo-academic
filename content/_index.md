@@ -22,7 +22,11 @@ sections:
         - name: Python
           description: 90%
           icon: python
-          icon_pack: fas
+          icon_pack: fab
+        - name: SQL
+          description: 90%
+          icon: sql
+          icon_pack: sql        
         - name: Statistics
           description: 100%
           icon: chart-line
