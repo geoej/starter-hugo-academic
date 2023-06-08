@@ -11,12 +11,13 @@ sections:
       title: Hi, I'm EJ!
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: Skills
+  - block: skills
     content:
-      title: Skills
+      title: skills
       items:
         - name: R
           description: sdfsdsf
+          description: 100%
           icon: python
           icon_pack: fab
         - name: Python
@@ -39,6 +40,8 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
+     design:
+      columns: '2'
   - block: experience
     content:
       title: Experience
