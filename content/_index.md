@@ -17,7 +17,7 @@ sections:
       items:
         - name: R
           description: sdfsdsf
-          icon: r-project
+          icon: python
           icon_pack: fab
         - name: Python
           description: 100%
