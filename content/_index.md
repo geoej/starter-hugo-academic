@@ -62,7 +62,7 @@ sections:
         - title: Data Scientist
           company: CFF UK (CIC)
           company_url: 'www.cropsforthefutureuk.org'
-          company_logo: org-gc
+          company_logo: cfflogo
           location: Cambridge, UK
           date_start: '2020-05-15'
           date_end: ''
