@@ -62,7 +62,7 @@ sections:
         - title: Data Scientist
           company: GenCoin
           company_url: ''
-          company_logo: org-gc
+          company_logo: cfflogo
           location: California
           date_start: '2021-01-01'
           date_end: ''
