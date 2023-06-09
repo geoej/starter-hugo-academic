@@ -16,24 +16,28 @@ sections:
       title: Skills
       items:
         - name: R
-          description: 100%
+          description: Tidyverse, sf, terra, ggplot, shiny
           icon: r-project
           icon_pack: fab
         - name: Python
-          description: 90%
+          description: NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow
           icon: python
           icon_pack: fab
-        - name: SQL
-          description: 90%
+        - name: Database
+          description: PostgreSQL, MySQL, Neo4j, GraphDB
           icon: database
           icon_pack: fas
         - name: Statistics
-          description: 100%
+          description: 3D and 2D data analysis, Inferences, Hypothesis Testing, Non-parametric Statistics
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: Machine Learning
+          description: Generative Adversarial Neural Networks, Random Forest
+          icon: brain-circuit
+          icon_pack: fas
+        - name: Cloud Computing & DevOps
+          description: GCP (Compute Engine, Cloud APIs), Docker, VM, Apache
+          icon: cloud-plus
           icon_pack: fas
   - block: experience
     content:
