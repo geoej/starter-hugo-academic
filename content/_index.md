@@ -31,8 +31,6 @@ sections:
           description: Budgeting, Publishing, Reporting, Grant Writing, CI/CD
           icon: list-check
           icon_pack: fas
-      title: Technologies
-      items:
         - name: R
           description: Tidyverse, sf, terra, ggplot, shiny
           icon: r-project
