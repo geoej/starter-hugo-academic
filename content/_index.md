@@ -47,7 +47,7 @@ sections:
           description: Budgeting, Publishing, Reporting, Grant Writing, CI/CD
           icon: list-check
           icon_pack: fas
- - block: experience
+  - block: experience
     content:
       title: Experience
       # Date format for experience
@@ -82,7 +82,7 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
- - block: accomplishments
+  - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
