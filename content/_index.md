@@ -67,8 +67,11 @@ sections:
           date_start: '2020-05-15'
           date_end: ''
           description: |2-
-              * Designed, built, and tested AI models with a team of data scientists and data engineers: http://www.CropBASE.co.uk 
-              * Built a database for European Commission: https://www.sciencedirect.com/science/article/abs/pii/S0168169920331252 
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
