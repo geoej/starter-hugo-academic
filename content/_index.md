@@ -39,6 +39,14 @@ sections:
           description: GCP (Compute Engine, Cloud APIs), Docker, VM, Apache
           icon: cloud-arrow-up
           icon_pack: fas
+        - name: Geospatial mapping
+          description: ArcGIS, QGIS, Google Earth Engine, 
+          icon: map
+          icon_pack: fas
+        - name: Management 
+          description: Budgeting, Publishing, Reporting, Grant Writing, CI/CD
+          icon: list-check
+          icon_pack: fas
   - block: experience
     content:
       title: Experience
