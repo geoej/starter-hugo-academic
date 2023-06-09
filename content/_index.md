@@ -60,18 +60,15 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Data Scientist
-          company: GenCoin
-          company_url: ''
+          company: CFF UK (CIC)
+          company_url: 'www.cropsforthefutureuk.org'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Cambridge, UK
+          date_start: '2020-05-15'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              * Designed, built, and tested AI models with a team of data scientists and data engineers: http://www.CropBASE.co.uk 
+              * Built a database for European Commission: https://www.sciencedirect.com/science/article/abs/pii/S0168169920331252 
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
