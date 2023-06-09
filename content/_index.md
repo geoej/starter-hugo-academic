@@ -34,11 +34,11 @@ sections:
         - name: Machine Learning
           description: Generative Adversarial Neural Networks, Random Forest
           icon: brain-circuit
-          icon_pack: fas
+          icon_pack: fab
         - name: Cloud Computing & DevOps
           description: GCP (Compute Engine, Cloud APIs), Docker, VM, Apache
           icon: cloud-plus
-          icon_pack: fas
+          icon_pack: fab
   - block: experience
     content:
       title: Experience
