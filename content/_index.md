@@ -47,7 +47,6 @@ sections:
           description: Budgeting, Publishing, Reporting, Grant Writing, CI/CD
           icon: list-check
           icon_pack: fas
- 
   - block: experience
     content:
       title: Experience
