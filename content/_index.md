@@ -58,9 +58,7 @@ sections:
           location: Cambridge, UK
           date_start: '2020-05-16'
           date_end: ''
-          description: |2-
-              *	Designed, built, and tested AI models with a team of data scientists and data engineers: http://www.CropBASE.co.uk 
-              *	Built a database for European Commission: https://www.sciencedirect.com/science/article/abs/pii/S0168169920331252 
+
         - title: Data Science Team Lead 
           company: CFF Malaysia
           company_url: ''
@@ -69,9 +67,9 @@ sections:
           date_start: '2014-09-01'
           date_end: '2020-05-15'
           description: |2-
-              *	Led a team of 24 software engineers, researchers, assistant managers, and data curators to build production-ready scripts for analysing big spatial data. Example here: https://zenodo.org/record/4563293
-              *	Developed a production-level ecosystem of applications for modelling alternative land-uses using agile methodologies. Example here: http://cropbase.co.uk/src/cropswap/ 
-              *	Streamlined software delivery lifecycle through effective monitoring tools and database architecture: https://github.com/geoej?tab=repositories 
+              Led a team of 24 software engineers, researchers, assistant managers, and data curators to build production-ready scripts for analysing big spatial data. Example here: https://zenodo.org/record/4563293
+              Developed a production-level ecosystem of applications for modelling alternative land-uses using agile methodologies. Example here: http://cropbase.co.uk/src/cropswap/ 
+              Streamlined software delivery lifecycle through effective monitoring tools and database architecture: https://github.com/geoej?tab=repositories 
     design:
       columns: '2'
   - block: accomplishments
