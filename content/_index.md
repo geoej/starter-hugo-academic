@@ -60,11 +60,11 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Data Scientist
-          company: CFF UK (CIC)
-          company_url: 'www.cropsforthefutureuk.org'
-          company_logo: cfflogo
-          location: Cambridge, UK
-          date_start: '2020-05-15'
+          company: GenCoin
+          company_url: ''
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
           date_end: ''
           description: |2-
               Responsibilities include:
