@@ -15,6 +15,24 @@ sections:
     content:
       title: Skills
       items:
+        - name: Statistics
+          description: 3D and 2D data analysis, Inferences, Hypothesis Testing, Non-parametric Statistics
+          icon: chart-line
+          icon_pack: fas
+        - name: Machine Learning
+          description: Generative Adversarial Neural Networks, Random Forest
+          icon: brain
+          icon_pack: fas
+        - name: Geospatial mapping
+          description: ArcGIS, QGIS, Google Earth Engine
+          icon: map
+          icon_pack: fas
+        - name: Management 
+          description: Budgeting, Publishing, Reporting, Grant Writing, CI/CD
+          icon: list-check
+          icon_pack: fas
+      title: Technologies
+      items:
         - name: R
           description: Tidyverse, sf, terra, ggplot, shiny
           icon: r-project
@@ -27,25 +45,9 @@ sections:
           description: PostgreSQL, MySQL, Neo4j, GraphDB
           icon: database
           icon_pack: fas
-        - name: Statistics
-          description: 3D and 2D data analysis, Inferences, Hypothesis Testing, Non-parametric Statistics
-          icon: chart-line
-          icon_pack: fas
-        - name: Machine Learning
-          description: Generative Adversarial Neural Networks, Random Forest
-          icon: brain
-          icon_pack: fas
         - name: Cloud Computing & DevOps
           description: GCP (Compute Engine, Cloud APIs), Docker, VM, Apache
           icon: cloud-arrow-up
-          icon_pack: fas
-        - name: Geospatial mapping
-          description: ArcGIS, QGIS, Google Earth Engine, 
-          icon: map
-          icon_pack: fas
-        - name: Management 
-          description: Budgeting, Publishing, Reporting, Grant Writing, CI/CD
-          icon: list-check
           icon_pack: fas
   - block: experience
     content:
