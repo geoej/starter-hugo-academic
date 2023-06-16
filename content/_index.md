@@ -63,15 +63,15 @@ sections:
           company: GenCoin
           company_url: ''
           company_logo: cfflogo
-          location: California
-          date_start: '2021-01-01'
+          location: Cambridge, UK
+          date_start: '2021-06-15'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Building a data warehouse for EU
+              * Publication of research resutls
+              * etc
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
