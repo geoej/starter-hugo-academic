@@ -76,7 +76,7 @@ sections:
           location: Malaysia
           date_start: '2014-09-01'
           date_end: '2020-05-15'
-          description: 
+          description: |2-
               * Led a team of 24 software engineers, researchers, assistant managers, and data curators to build production-ready scripts for analysing big spatial data. Example here: https://zenodo.org/record/4563293
               * Developed a production-level ecosystem of applications for modelling alternative land-uses using agile methodologies. Example here: http://cropbase.co.uk/src/cropswap/ 
               * Streamlined software delivery lifecycle through effective monitoring tools and database architecture: https://github.com/geoej?tab=repositories
