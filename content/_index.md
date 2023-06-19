@@ -59,7 +59,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Data Scientist
+        - title: Geosptial Data Scientist / Data Engineer
           company: GenCoin
           company_url: ''
           company_logo: cfflogo
@@ -67,12 +67,9 @@ sections:
           date_start: '2021-06-15'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Building a data warehouse for EU
-              * Publication of research resutls
-              * etc
-        - title: Professor of Semiconductor Physics
+              * Designed, built, and tested AI models with a team of data scientists and data engineers: http://www.CropBASE.co.uk    
+              * Built a database for European Commission: https://www.sciencedirect.com/science/article/abs/pii/S0168169920331252 
+        - title: Data Science Team Lead 
           company: University X
           company_url: ''
           company_logo: org-x
