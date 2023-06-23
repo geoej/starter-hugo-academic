@@ -72,7 +72,7 @@ sections:
         - title: Data Science Team Lead 
           company: CFF Malaysia
           company_url: ''
-          company_logo: org-x
+          company_logo: 
           location: Malaysia
           date_start: '2014-09-01'
           date_end: '2020-05-15'
@@ -80,6 +80,16 @@ sections:
               * Led a team of 24 software engineers, researchers, assistant managers, and data curators to build production-ready scripts for analysing big spatial data. Example here: https://zenodo.org/record/4563293
               * Developed a production-level ecosystem of applications for modelling alternative land-uses using agile methodologies. Example here: http://cropbase.co.uk/src/cropswap/ 
               * Streamlined software delivery lifecycle through effective monitoring tools and database architecture: https://github.com/geoej?tab=repositories
+        - title: Data Analyst – Part time with PhD
+          company: National University of Singapore, Univesiti Putra Malaysia 
+          company_url: ''
+          company_logo: 
+          location: Singapore, Malaysia
+          date_start: '2006-01-01'
+          date_end: '2014-05-01'
+          description: |2-
+              * Web-based data analysis tools for precision farming using R and Shiny: https://github.com/geoej/PFMap 
+              * Developed on off-line software for mass appraisal of real estate properties using R (source available upon request) 
     design:
       columns: '2'
   - block: accomplishments
