@@ -62,7 +62,7 @@ sections:
         - title: Geosptial Data Scientist / Data Engineer
           company: CFF UK (CIC)
           company_url: ''
-          company_logo: cfflogo
+          company_logo: niablogo
           location: Cambridge, UK
           date_start: '2021-05-16'
           date_end: ''
