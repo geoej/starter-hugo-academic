@@ -59,12 +59,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Geosptial Data Scientist / Data Engineer
-          company: CFF UK (CIC)
+        - title: Data Science Manager
+          company: NIAB Ltd
           company_url: ''
           company_logo: niablogo
           location: Cambridge, UK
-          date_start: '2021-05-16'
+          date_start: '2023-04-01'
           date_end: ''
           description: |2-
               * Designed, built, and tested AI models with a team of data scientists and data engineers: http://www.CropBASE.co.uk    
