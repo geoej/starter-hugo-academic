@@ -88,7 +88,7 @@ sections:
               * Carried out spatial suitability analysis of bambara groundnut in China using stochastic environmental research and risk assessment, sub-daily swat models, cluster analysis, economic data, climate data, soil data, crop production data, and FAOSTAT data: https://onlinelibrary.wiley.com/doi/full/10.1002/fes3.358
               * Lead the development of The first version of nation-wide open 3D soil database for Sri Lanka: https://www.sciencedirect.com/science/article/pii/S235234092031235X
         - title: Data Scientist
-          company: Chalmers University of Technology · Part-time 
+          company: Chalmers University of Technology 
           company_url: ''
           company_logo: chalmerslogo
           location: Gothenburg, Sweden
