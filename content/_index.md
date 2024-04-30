@@ -90,7 +90,7 @@ sections:
         - title: Data Scientist
           company: Chalmers University of Technology 
           company_url: ''
-          company_logo: chalmerslogo
+          company_logo: 
           location: Gothenburg, Sweden
           date_start: '2021-12-01'
           date_end: '2022-07-01'
