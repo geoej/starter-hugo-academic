@@ -99,6 +99,38 @@ sections:
               * Spatial Generative Adversarial Networks (SpaceGANs)
               * Data mining from published resources
               * Machine learning models Read more: https://gupea.ub.gu.se/handle/2077/72200?show=full
+        - title: Geospatial Data Scientist 
+          company: University of Nottingham
+          company_url: ''
+          company_logo: cfflogo
+          location: Kuala Lumpur, Malaysia
+          date_start: '2020-05-15'
+          date_end: '2023-04-01'
+          description: |2-
+              * Awarded EUR 290,000 for the project: “Development of Integrated Web-Based Land Decision Support System Aiming Towards the Implementation of Policies for Agriculture and Environment”. (H2020-RUR-2017-2). https://www.landsupport.eu
+              * Lead a team of 24 data specialists, and software developers to develop CropBASE suite of Apps for agricultural diversification: https://www.cropbase.co.uk 
+              * Crop suitability mapper https://www.cropbase.co.uk/src/cropgrids/cropgrids.php
+              * AssessCrop: the first evidence-base for new products and their nutrition from underutilised crops: https://cropbase.co.uk/src/assesscrop/assesscrop/product_compare.php
+              * Developed a Global Knowledge Base for agricultural diversification: https://cropbase.co.uk/cropbasev5/
+              * Utilised Support Vector Machines algorithm for the economic feasibility assessment of underutilised crops: https://www.sciencedirect.com/science/article/abs/pii/S0168169918306665
+        - title: Geospatial Data Scientist 
+          company: Crops For the Future (CFF) UK CIC
+          company_url: ''
+          company_logo: cfflogo
+          location: Chelmsford, UK
+          date_start: '2020-05-15'
+          date_end: '2023-04-01'
+          description: |2-
+              * Awarded “Realising Dynamic Value Chains for Underutilised Crops (RADIANT) - HORIZON 2020 SFS-01-2020”. H2020 European Union. Granted 220,000 Euros. https://www.radiantproject.eu
+        - title: Geospatial Data Scientist 
+          company: Crops For the Future (CFF) UK CIC
+          company_url: ''
+          company_logo: cfflogo
+          location: Chelmsford, UK
+          date_start: '2020-05-15'
+          date_end: '2023-04-01'
+          description: |2-
+              * Awarded “Realising Dynamic Value Chains for Underutilised Crops (RADIANT) - HORIZON 2020 SFS-01-2020”. H2020 European Union. Granted 220,000 Euros. https://www.radiantproject.eu
     design:
       columns: '2'
   - block: accomplishments
