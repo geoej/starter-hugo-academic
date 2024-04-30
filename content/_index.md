@@ -72,17 +72,21 @@ sections:
               * Developed a Global knowledge base for agricultural diversification with MYSQL, PHP on Google Cloud Platform (GCP): https://github.com/geoej/RADIANT-DB
               * AiSQLQury: an Retrieval Augmented Generation (RAG) based Large Language Model (LLM) extension for domain specific data augmentation: https://github.com/geoej/AiSQLquery
               * MlOps: end-to-end model production with MLflow and DVC deployment: https://github.com/geoej/EndtoEndDVC
-        - title: Data Science Team Lead 
-          company: CFF Malaysia
+        - title: Geospatial Data Scientist 
+          company: Crops For the Future (CFF) UK CIC
           company_url: ''
-          company_logo: 
-          location: Malaysia
-          date_start: '2014-09-01'
-          date_end: '2020-05-15'
+          company_logo: cfflogo
+          location: Chelmsford, UK
+          date_start: '2020-05-15'
+          date_end: '2023-04-01'
           description: |2-
-              * Led a team of 24 software engineers, researchers, assistant managers, and data curators to build production-ready scripts for analysing big spatial data. Example here: https://zenodo.org/record/4563293
-              * Developed a production-level ecosystem of applications for modelling alternative land-uses using agile methodologies. Example here: http://cropbase.co.uk/src/cropswap/ 
-              * Streamlined software delivery lifecycle through effective monitoring tools and database architecture: https://github.com/geoej?tab=repositories
+              * Awarded “Realising Dynamic Value Chains for Underutilised Crops (RADIANT) - HORIZON 2020 SFS-01-2020”. H2020 European Union. Granted 220,000 Euros. https://www.radiantproject.eu
+              * Developed a multistage suitability assessment based on available data at local, regional and global level (SQL database, Google Earth Engine, local meteorological and prices datasets) to provide initial evidence for the economic feasibility of hemp: https://www.sciencedirect.com/science/article/abs/pii/S0926669021007640
+              * Developed an analysis framework for diversification in the United Kingdom, considering climate, soil, economics, and market demand. API database of 2700 crops, combined GIS and data mining to determine the most promising climate resilitent crop for the UK: https://www.mdpi.com/2077-0472/13/4/787
+              * Developed a data-driven approach for shortlisting underutilized crops (UCs) for sustainable agricultural diversification across Italy: https://www.mdpi.com/2073-4395/12/7/1636 
+              * Quantified the fitness of global datasets for forest Loss quantification in Amazonia based on R and Google Earth Engine: https://github.com/geoej/ForestLossDatasets/
+              * Carried out spatial suitability analysis of bambara groundnut in China using stochastic environmental research and risk assessment, sub-daily swat models, cluster analysis, economic data, climate data, soil data, crop production data, and FAOSTAT data: https://onlinelibrary.wiley.com/doi/full/10.1002/fes3.358
+              * Lead the development of The first version of nation-wide open 3D soil database for Sri Lanka: https://www.sciencedirect.com/science/article/pii/S235234092031235X
         - title: Data Analyst – Part time with PhD
           company: National University of Singapore, Univesiti Putra Malaysia 
           company_url: ''
