@@ -66,9 +66,12 @@ sections:
           location: Cambridge, UK
           date_start: '2023-04-01'
           date_end: ''
-          description: |2-
-              * Designed, built, and tested AI models with a team of data scientists and data engineers: http://www.CropBASE.co.uk    
-              * Built a database for European Commission: https://www.sciencedirect.com/science/article/abs/pii/S0168169920331252 
+          description: |2-    
+              * Developed a database for more than 500 agronomic studies that were published across European agroclimatic zones from 1972 to 2022: https://zenodo.org/records/8406516
+              * Developed a crop model to assess the potential of Proso millet as a climate-resilient crop for sustainable diversification. https://zenodo.org/records/7456224
+              * Developed a Global knowledge base for agricultural diversification with MYSQL, PHP on Google Cloud Platform (GCP): https://github.com/geoej/RADIANT-DB
+              * AiSQLQury: an Retrieval Augmented Generation (RAG) based Large Language Model (LLM) extension for domain specific data augmentation: https://github.com/geoej/AiSQLquery
+              * MlOps: end-to-end model production with MLflow and DVC deployment: https://github.com/geoej/EndtoEndDVC
         - title: Data Science Team Lead 
           company: CFF Malaysia
           company_url: ''
