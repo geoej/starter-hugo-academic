@@ -87,16 +87,18 @@ sections:
               * Quantified the fitness of global datasets for forest Loss quantification in Amazonia based on R and Google Earth Engine: https://github.com/geoej/ForestLossDatasets/
               * Carried out spatial suitability analysis of bambara groundnut in China using stochastic environmental research and risk assessment, sub-daily swat models, cluster analysis, economic data, climate data, soil data, crop production data, and FAOSTAT data: https://onlinelibrary.wiley.com/doi/full/10.1002/fes3.358
               * Lead the development of The first version of nation-wide open 3D soil database for Sri Lanka: https://www.sciencedirect.com/science/article/pii/S235234092031235X
-        - title: Data Analyst – Part time with PhD
-          company: National University of Singapore, Univesiti Putra Malaysia 
+        - title: Data Scientist
+          company: Chalmers University of Technology · Part-time 
           company_url: ''
-          company_logo: 
-          location: Singapore, Malaysia
-          date_start: '2006-01-01'
-          date_end: '2014-05-01'
+          company_logo: chalmerslogo
+          location: Gothenburg, Sweden
+          date_start: '2021-12-01'
+          date_end: '2022-07-01'
           description: |2-
-              * Web-based data analysis tools for precision farming using R and Shiny: https://github.com/geoej/PFMap 
-              * Developed on off-line software for mass appraisal of real estate properties using R (source available upon request) 
+              * Utilised the Spatial Generative Adversarial Neural Networks (SpaceGAN) and machine learning models to predict soil properties at unsampled areas (due to high cost). The results show that this method can improve the accuracy of soil information.
+              * Spatial Generative Adversarial Networks (SpaceGANs)
+              * Data mining from published resources
+              * Machine learning models Read more: https://gupea.ub.gu.se/handle/2077/72200?show=full
     design:
       columns: '2'
   - block: accomplishments
