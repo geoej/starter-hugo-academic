@@ -130,7 +130,7 @@ sections:
           company_url: ''
           company_logo: 
           location: Kuala Lumpur, Malaysia
-          date_start: '2020-09-01'
+          date_start: '2008-09-01'
           date_end: '2014-05-01'
           description: |2-
               * Graduate research fellowship funded the Government of Malaysia, Ministry of Higher Education
@@ -141,6 +141,29 @@ sections:
               * Developed a comprehensive review of spatial analysis of Property sales. The published paper has received more than 100 citation: https://core.ac.uk/download/pdf/153802057.pdf
               * Developed Shiny PFMap software, soil mapper using R statistical libraries https://geoprocessing.shinyapps.io/geoprocessing/  data for testing the App: http://b.link/a69
               * Developed An Automated Valuation System for real estate appraisal based on geospatial regression techniques. A standalone software based on R programming language and TCL/TK
+        - title: Geospatial Analyst
+          company: Universiti Putra Malaysia (part time)
+          company_url: ''
+          company_logo: 
+          location: Kuala Lumpur, Malaysia
+          date_start: '2003-11-01'
+          date_end: '2008-08-01'
+          description: |2-
+              * Graduate research fellowship funded by The Malaysian Centre of Remote Sensing (MACRES)
+              * Developed a complete algorithm for geostatistical analysis and mapping that would reduce the number of samples required for mapping by 70%: https://link.springer.com/article/10.1007/s12517-015-1912-6
+              * Developed object-oriented approach for image segmentation using LandSat data (UGSS)
+              * Granted RM 135,000 (Ringgit Malaysia). “Developing a cellular automata-based planning decision support system” (01-01-04-SF0979), Ministry of Science, Technology and Innovation
+        - title: Data Entry Specialist
+          company: National University of Singapore
+          company_url: ''
+          company_logo: 
+          location: Singapore
+          date_start: '2008-01-01'
+          date_end: '2008-08-07'
+          description: |2-
+              * Developed a metadata system for remote sensing data fusion for "Land-use Land-cover Change and Its Environmental Consequences in Southeast Asia" project
+              * Transcribed records for the project: "Effects of clearance and fragmentation on forest compositional change and recovery after 200 years in western New York"
+              * Conducted literature search for the project "land-use land-cover change research explored using self-organizing map"                
     design:
       columns: '2'
   - block: accomplishments
