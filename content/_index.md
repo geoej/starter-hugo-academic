@@ -88,7 +88,7 @@ sections:
               * Carried out spatial suitability analysis of bambara groundnut in China using stochastic environmental research and risk assessment, sub-daily swat models, cluster analysis, economic data, climate data, soil data, crop production data, and FAOSTAT data: https://onlinelibrary.wiley.com/doi/full/10.1002/fes3.358
               * Lead the development of The first version of nation-wide open 3D soil database for Sri Lanka: https://www.sciencedirect.com/science/article/pii/S235234092031235X
         - title: Data Scientist
-          company: Chalmers University of Technology 
+          company: Chalmers University of Technology (part time)
           company_url: ''
           company_logo: 
           location: Gothenburg, Sweden
@@ -102,10 +102,10 @@ sections:
         - title: Geospatial Data Scientist 
           company: University of Nottingham
           company_url: ''
-          company_logo: cfflogo
+          company_logo: 
           location: Kuala Lumpur, Malaysia
-          date_start: '2020-05-15'
-          date_end: '2023-04-01'
+          date_start: '2017-11-01'
+          date_end: '2020-05-01'
           description: |2-
               * Awarded EUR 290,000 for the project: “Development of Integrated Web-Based Land Decision Support System Aiming Towards the Implementation of Policies for Agriculture and Environment”. (H2020-RUR-2017-2). https://www.landsupport.eu
               * Lead a team of 24 data specialists, and software developers to develop CropBASE suite of Apps for agricultural diversification: https://www.cropbase.co.uk 
@@ -113,24 +113,34 @@ sections:
               * AssessCrop: the first evidence-base for new products and their nutrition from underutilised crops: https://cropbase.co.uk/src/assesscrop/assesscrop/product_compare.php
               * Developed a Global Knowledge Base for agricultural diversification: https://cropbase.co.uk/cropbasev5/
               * Utilised Support Vector Machines algorithm for the economic feasibility assessment of underutilised crops: https://www.sciencedirect.com/science/article/abs/pii/S0168169918306665
-        - title: Geospatial Data Scientist 
-          company: Crops For the Future (CFF) UK CIC
+        - title: Data Manager 
+          company: University of Nottingham
           company_url: ''
-          company_logo: cfflogo
-          location: Chelmsford, UK
-          date_start: '2020-05-15'
-          date_end: '2023-04-01'
+          company_logo: 
+          location: Kuala Lumpur, Malaysia
+          date_start: '2014-08-01'
+          date_end: '2017-11-01'
           description: |2-
-              * Awarded “Realising Dynamic Value Chains for Underutilised Crops (RADIANT) - HORIZON 2020 SFS-01-2020”. H2020 European Union. Granted 220,000 Euros. https://www.radiantproject.eu
-        - title: Geospatial Data Scientist 
-          company: Crops For the Future (CFF) UK CIC
+              * Developed a suite of software and tools for diversification of agriculture for more than 10,000 farmers in South East Asia.
+              * A Nutrition Security Tool demonstrating the importance of Underutilised Food Crops for Sustainable Nutrition Security https://geoprocessing.shinyapps.io/underutilised/
+              * DSSAT-INPUT: an online DSSAT-compatible crop modelling input generator https://geoprocessing.shinyapps.io/DSSAT-INPUT-Shiny/
+              * Developed Data frameworks for linking data across different disciplines: https://www.myfoodresearch.com/uploads/8/4/8/5/84855864/_4__fr-2018-104.r1_nur_marahaini.pdf
+        - title: Geospatial Lead 
+          company: Universiti Putra Malaysia
           company_url: ''
-          company_logo: cfflogo
-          location: Chelmsford, UK
-          date_start: '2020-05-15'
-          date_end: '2023-04-01'
+          company_logo: 
+          location: Kuala Lumpur, Malaysia
+          date_start: '2020-09-01'
+          date_end: '2014-05-01'
           description: |2-
-              * Awarded “Realising Dynamic Value Chains for Underutilised Crops (RADIANT) - HORIZON 2020 SFS-01-2020”. H2020 European Union. Granted 220,000 Euros. https://www.radiantproject.eu
+              * Graduate research fellowship funded the Government of Malaysia, Ministry of Higher Education
+              * Developed R code to compare specifications of linear regression and spatial-temporal autoregressive models in mass appraisal valuation for single storey residential property: http://psasir.upm.edu.my/id/eprint/60054
+              * Developed a spatial regression techniques for prediction of house property values.
+              * Developed PFMap macro creates continuous availability and application maps for precision farming. A stand-alone ArcGIS macro developed with ArcObjects and VBA.
+              * Participated in the development of Hyperspectral analysis of oil palm fruit project that to 2 patents.
+              * Developed a comprehensive review of spatial analysis of Property sales. The published paper has received more than 100 citation: https://core.ac.uk/download/pdf/153802057.pdf
+              * Developed Shiny PFMap software, soil mapper using R statistical libraries https://geoprocessing.shinyapps.io/geoprocessing/  data for testing the App: http://b.link/a69
+              * Developed An Automated Valuation System for real estate appraisal based on geospatial regression techniques. A standalone software based on R programming language and TCL/TK
     design:
       columns: '2'
   - block: accomplishments
