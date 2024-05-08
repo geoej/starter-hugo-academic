@@ -297,7 +297,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Drop a line to connect or alternatively schedule a meeting:
       # Contact (add or remove contact options as necessary)
       email: ej@cropbase.co.uk
       #phone: 888 888 88 88
@@ -327,15 +327,16 @@ sections:
       #    name: Zoom Me
       #    link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
-      autolink: true
+      #autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      #form:
+      #  provider: netlify
+      #  formspree:
+      #    id:
+      #  netlify:
+      #    # Enable CAPTCHA challenge to reduce spam?
+      #    captcha: false
     design:
       columns: '2'
 ---
+
