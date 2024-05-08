@@ -1,6 +1,6 @@
 ---
 title: Ebrahim Jahanshiri
-role: Seasoned Machine Learning Scientist
+role: Geospatial Data Scientist
 avatar_filename: avatar.png
 bio: ""
 interests:
@@ -35,8 +35,8 @@ social:
     icon_pack: ai
     link: uploads/CV.pdf
 organizations:
-  - name: CFF UK
-    url: https://www.cropsforthefutureuk.org
+  - name: 
+    url: 
 education:
   courses:
     - course: MSc Applied Data Science
@@ -62,7 +62,7 @@ email: "ej@cropbase.co.uk"
 ---
    a passionate Data Scientist who thrives at the intersection of data, technology, and problem-solving. With a decade of experience in this vibrant field, I've developed a knack for transforming raw data into meaningful insights that drive strategic business decisions.
 
-My journey in data science began with a Pentium IV computer in 1995 that allowed me to work with earliest versions of Microsoft Excel and Fortran!. I quickly learned about how to load data, create charts and even develop out-of-the-box linear regression models with some model diagnostics. I carried all these skills with me throghout my studies in the university where I worked on various projects that required complex 3D geospatial data manipulation, analysis and publications. I have mastered R in my PhD, where I developed econometrics models for prediction of house property values. 
+My journey in data science began with a Pentium IV computer in 1995 that allowed me to work with earliest versions of Microsoft Excel and Fortran!. I quickly learned about how to load data, create charts and even develop out-of-the-box linear regression models with some model diagnostics. I carried all these skills with me throughout my studies in the university where I worked on various projects that required complex 3D geospatial data manipulation, analysis and publications. I have mastered R in my PhD, where I developed econometrics models for prediction of house property values. 
 
 All I have learned by myself were not enough, so I have recently completed a M.S. in Data Science (a joint program with Gothenburg and Chalmers universities, Sweden). This strong academic foundation, coupled with practical experience, has allowed me to hone my skills in areas like Machine Learning, Predictive Modelling, Data Visualization, and Big Data Analytics. Over the years, I've had the privilege of working in diverse industry settings. My quest for unraveling the hidden patterns in data has led to successfully enhancing business operations, improving customer experiences, and predicting market trends.
 
