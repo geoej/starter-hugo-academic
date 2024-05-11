@@ -234,9 +234,11 @@ sections:
         - name: All
           tag: '*'
         - name: NLP
-          tag: NLP
+          tag: Agritech & NLP Integration
         - name: Data Science
-          tag: Data Science
+          tag: Data Science & Climate Modelling
+        - name: Geospatial Analysis
+          tag: Land Management & Geospatial Data Analysis
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
