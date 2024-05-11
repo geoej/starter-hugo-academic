@@ -27,7 +27,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: 
 ---
 
 The LANDSUPPORT ProResilience project, undertaken from June 2017 to March 2023, aimed to evaluate the potential of proso millet as a climate-resilient crop that could promote sustainable agricultural diversification in Sri Lanka. Led by a team at the University of Nottingham, the project leveraged data science and climate modeling techniques to assess the suitability and adaptability of proso millet under current and future climate scenarios.
