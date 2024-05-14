@@ -2,7 +2,7 @@
 title: LandSupport ViableCrop   
 summary: First ever end to end feasibility for a new land use option that includes economics and projection agains climate change
 tags:
-  - Data Science
+  - Geospatial Analysis
 date: '2018-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
