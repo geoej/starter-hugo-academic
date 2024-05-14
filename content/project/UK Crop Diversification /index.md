@@ -2,11 +2,11 @@
 title: UK Crop Diversification   
 summary: The project's significance was recognized by its selection for presentation to HRH Princess Ann on October 10th, 2023, focusing on solutions for UK food and nutrition security. 
 tags:
-  - Data Science & Sustainable Food Systems
+  - Data Science
 date: '2018-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://zenodo.org/records/7456224  '
+external_link: ''
 
 image:
   caption: Photo by rawpixel on Unsplash

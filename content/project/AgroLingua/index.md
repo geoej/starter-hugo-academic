@@ -2,11 +2,11 @@
 title: AgroLingua  
 summary: The augmented Large Language Model can accurately generate human-readable adaptation measurement for any location 
 tags:
-  - Agritech & NLP Integration
+  -  NLP
 date: '2024-01-15T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://github.com/geoej/AiSQLquery'
+external_link: ''
 
 image:
   caption: 

@@ -2,11 +2,11 @@
 title: LANDSUPPORT ProResilience   
 summary: The project equips extension workers with the knowledge that is required for guiding millet farmers in Sri Lanka. 
 tags:
-  - Data Science & Climate Modelling
+  - Data Science
 date: '2018-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://zenodo.org/records/7456224  '
+external_link: ''
 
 image:
   caption: Photo by rawpixel on Unsplash
