@@ -239,6 +239,8 @@ sections:
           tag: Data Science & Climate Modelling
         - name: Geospatial Analysis
           tag: Land Management & Geospatial Data Analysis
+        - name: Data Science
+          tag: Data Science & Sustainable Food Systems
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
