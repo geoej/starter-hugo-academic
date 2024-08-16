@@ -250,7 +250,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="ej" >}}
     design:
       columns: '1'
   - block: collection
