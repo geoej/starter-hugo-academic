@@ -303,7 +303,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: ej@cropbase.co.uk
       #phone: 888 888 88 88
-      appointment_url: 'https://calendly.com/jgeo067/30min'
+      appointment_url: 'https://calendly.com/e-jahanshiri/30min'
       #address:
       #  street: Huntingdon Road
       #  city: Cambridge
