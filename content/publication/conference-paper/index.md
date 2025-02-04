@@ -1,19 +1,19 @@
 ---
-title: 'Wimalasiri_Jahanshiri_Chimonyo_Kuruppuarachchi_Suhairi_Azam-Ali_Gregory_2021'
+title: 'An example conference paper'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-
+  - Robert Ford
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2021-11-07T00:00:00Z'
+date: '2013-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -26,13 +26,14 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 
-publication_short: In *Industrial Crops and Products*
+publication: In *Wowchemy Conference*
+publication_short: In *ICW*
 
-abstract: Hemp (Cannabis sativa L.) is a multipurpose industrial crop which is mainly cultivated in temperate regions. With its high potential for economic returns for its seeds and fiber, there is growing interest in cultivating hemp in many territories including Malaysia and other Asian countries, where its cultivation is currently illegal. To date, no comprehensive study on the suitability of this crop under Malaysian conditions has been conducted. In this paper, we propose an assessment framework as a roadmap to develop the hemp industry in Malaysia and possibly other Asian countries with equatorial climates. This framework includes suitability assessment (climate and soil), crop modelling (current and future yields under climate change) and economic analysis (net present value (NPV), NPV benefit (NPVB) and benefit-cost ratio (BCR). The land suitability assessment classified hemp as an adaptable crop for most of the land in the country. The AquaCrop model, parameterised from secondary data collected from literature was used in simulations and potential yield mapping. The estimated average potential seed and fiber yield at six locations between 2010 and 2019 was 1.61 ± 0.25 and 2.78 ± 0.39 t ha–1 respectively. Using five general circulation model (GCM) simulations, yields under future climates in Malaysia showed an increase in most of the locations. The highest NPVB of 1641 USD ha–1 (BCR of 1.33) for seed was estimated under current climate conditions. Yields of 1.38 t ha–1 (seed) and 3.62 t ha–1 (fiber) are the minimum economically feasible yields with a Benefit-Cost Ratio of 1.00 suggesting a potential for hemp cultivation in comparison to countries with established hemp industries. The present framework could be used to develop a pathway for adoption of hemp as a crop for the future in tropical countries.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
 tags: []
 
 # Display this page in the Featured widget?
@@ -55,7 +56,7 @@ url_video: 'https://youtube.com'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE](https://ars.els-cdn.com/content/image/1-s2.0-S0926669021007640-ga1_lrg.jpg)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
   preview_only: false
 

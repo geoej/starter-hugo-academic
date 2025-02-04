@@ -1,16 +1,18 @@
 ---
-title: "An example journal article"
+title: "A framework for the development of hemp (Cannabis sativa L.) as a crop for the future in tropical environments"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Eranga M. Wimalasiri
+- Ebrahim Jahanshiri
+- Vimbayi G. P. Chimonyo
+- Niluka Kuruppuarachchi
+- T. A. S. T. M. Suhairi
+- Sayed N. Azam-Ali
+- Peter J. Gregory
+date: "2021-11-01T00:00:00Z"
+doi: "10.1016/j.indcrop.2021.113999"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-11-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,23 +21,27 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*Industrial Crops and Products, 172*"
+publication_short: "Ind Crops Prod"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "Hemp (Cannabis sativa L.) is a multipurpose industrial crop which is mainly cultivated in temperate regions. With its high potential for economic returns for its seeds and fiber, there is growing interest in cultivating hemp in many territories including Malaysia and other Asian countries, where its cultivation is currently illegal. To date, no comprehensive study on the suitability of this crop under Malaysian conditions has been conducted. In this paper, we propose an assessment framework as a roadmap to develop the hemp industry in Malaysia and possibly other Asian countries with equatorial climates. This framework includes suitability assessment (climate and soil), crop modelling (current and future yields under climate change) and economic analysis (net present value (NPV), NPV benefit (NPVB) and benefit-cost ratio (BCR). The land suitability assessment classified hemp as an adaptable crop for most of the land in the country. The AquaCrop model, parameterised from secondary data collected from literature was used in simulations and potential yield mapping."
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: "A comprehensive framework for assessing hemp cultivation potential in tropical environments, particularly Malaysia, combining climate suitability, crop modeling, and economic analysis."
 
 tags:
-- Source Themes
-featured: false
+- Hemp
+- Cannabis sativa
+- Tropical agriculture
+- Crop modeling
+- Economic analysis
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: 'https://www.sciencedirect.com/science/article/abs/pii/S0926669021007640'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -46,8 +52,8 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
+  caption: 'Framework for hemp development in tropical environments. Image credit: [**Industrial Crops and Products**](https://www.sciencedirect.com/science/article/abs/pii/S0926669021007640)'
+  focal_point: "Center"
   preview_only: false
 
 # Associated Projects (optional).
@@ -62,7 +68,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
