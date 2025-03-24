@@ -59,6 +59,16 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Consultant Data Scientist (Data & AI)
+          company: CFF UK
+          company_url: www.cropbase.co.uk
+          company_log: cfflogo
+          location: Cambridge, UK 
+          date_start: '2025-04-01'
+          date_end: ''
+          description: |2-
+              * I deign, develop, and deliver Data and AI products for the EU RADIANT project.
+              * I use Generative AI (LLMs, Diffusion and Adversarial models) to develop apps and website deployed on GCP, AWS. 
         - title: Data Science Manager
           company: NIAB Ltd
           company_url: ''
