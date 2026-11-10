@@ -35,7 +35,7 @@ tags:
 - Tropical agriculture
 - Crop modeling
 - Economic analysis
-featured: true
+featured: false
 
 # links:
 # - name: ""

@@ -11,11 +11,8 @@ main:
   #   url: '#posts'
   #   weight: 20
   - name: Projects
-    url: '#projects'
+    url: /project/
     weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
   - name: Publications
     url: '#featured'
     weight: 50
